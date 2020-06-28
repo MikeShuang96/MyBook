@@ -4,6 +4,11 @@
 
 Github地址：https://github.com/21-projects-for-deep-learning/MyBook
 
+![京东图书：深度学习训练营](https://img13.360buyimg.com/n1/jfs/t1/121507/30/3245/261556/5ecf50a7E51da8c88/9c429e8719022f69.jpg)
+
+#### 本书所有的代码集合
+链接: https://pan.baidu.com/s/1C6waPKRlRfQ_Dj8MDatdEg 提取码: eu3k
+
 
 ### 宋体的字体下载
 链接:https://pan.baidu.com/s/1TThtFKeeGX6VjquwABQWOw  密码:y6u7
